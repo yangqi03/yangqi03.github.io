@@ -5,7 +5,7 @@ navbar_name: "Yang Qi"
 positions:
 - name: Master student
 - name: Nanyang Technological University
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/NTU.png  # Logo is optional
 
 
 email: "muzhou_yq@163.com"
@@ -50,7 +50,7 @@ education:
 
 experience:
 - name: Huawei Singapore Research Centre
-  logo: /images/NTU.png
+  logo: /assets/images/badges/Huawei.png
   position: >- 
     AI Engineering Intern <br/>
   date: Jul. 2025 - Nov. 2025
